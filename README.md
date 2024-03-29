@@ -1,5 +1,5 @@
 # Spyro3ModExample
-External Emulator mod for Spyro 3
+External Emulator mod for Spyro 3 (Spyro: Year of the Dragon USA ROM)
 
 When you have collected more then a set of Gems then it makes Spyro fly.
 
